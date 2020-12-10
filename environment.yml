@@ -8,3 +8,8 @@ dependencies:
     - matplotlib
     - cartopy
     - netcdf4
+    - rioxarray
+    - seaborn
+    - geopandas
+    - shapely
+    - scipy
